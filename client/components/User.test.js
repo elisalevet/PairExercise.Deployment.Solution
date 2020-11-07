@@ -17,3 +17,4 @@ describe('User Component', () => {
     expect(user.find('.user--email').text()).to.equal(fakeUser.email)
   })
 })
+console.log('hello world')
